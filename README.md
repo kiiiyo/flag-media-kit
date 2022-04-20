@@ -1,2 +1,3 @@
-# flag-media-kit
-Jamstack user interface kit
+# 🏴 Flag Media Kit
+
+Jamstack user interface kit.
