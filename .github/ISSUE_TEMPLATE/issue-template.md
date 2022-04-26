@@ -3,7 +3,7 @@ name: Issue template
 about: Describe this issue template's purpose here.
 title: "[Task title]"
 labels: ''
-assignees: ''
+assignees: kiiiyo
 
 ---
 
